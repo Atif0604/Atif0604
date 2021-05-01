@@ -15,8 +15,6 @@
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="atif0604" height="30" width="40" /></a>
 <a href="https://instagram.com/_atif._1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_atif._1" height="30" width="40" /></a>
 </p>
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/atif0604/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Atif0604)
 
 **Languages and Tools:** 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,15 +38,16 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
+<hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact" alt="atif0604" />
 </p>
-<br><hr>
-<p>&nbsp;
+<br>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&show_icons=true&locale=en" alt="atif0604" />
 </p>
-<br><hr>
+<br>
+<hr>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
