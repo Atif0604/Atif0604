@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Atif <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
 <h3 align="center">A Passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat" alt="atif0604" /> </p>
+
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 
 - 🌱 I’m currently learning **ReactJs**
@@ -12,13 +12,18 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="atif0604" /></p>
 <p align="left">
 <a href="https://twitter.com/@mdatif11852822" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@mdatif11852822" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="atif0604" height="30" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/-@mdatif11852822-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdatif11852822"alt="@mdatif11852822" /></a>
+<a href="https://linkedin.com/in/atif0604" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-atif0604-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atif0604/" alt="atif0604"  /></a>
 <a href="https://instagram.com/_atif._1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_atif._1" height="30" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/-@_atif._1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_atif._1/" alt="_atif._1"  /></a>
+  <a href="mailto:atifcomputer2001@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-atifcomputer2001-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atifcomputer2001@gmail.com" alt="atif"  /></a>
 </p>
 
 
