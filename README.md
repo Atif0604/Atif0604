@@ -2,14 +2,14 @@
 <h3 align="center">A Passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat" alt="atif0604" /> </p>
-
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me : **atifcomputer2001@gmail.com**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact : **I think I'm funny XD**
-<p align="right"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
