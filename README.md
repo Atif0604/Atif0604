@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Atif</h1>
+<h1 align="center">Hi there, I'm Atif <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
 <h3 align="center">A Passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat" alt="atif0604" /> </p>
@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me : **atifcomputer2001@gmail.com**
+- 😄 Pronouns: he/him
+
 
 - ⚡ Fun fact : **I think I'm funny XD**
 
@@ -43,11 +45,11 @@
 </p>
 <hr>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact" alt="atif0604" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atif0604" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&show_icons=true&locale=en" alt="atif0604" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&theme=tokyonight&show_icons=true&locale=en" alt="atif0604" />
 </p>
 <br>
 <hr>
