@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat" alt="atif0604" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mdatif11852822" target="blank"><img src="https://img.shields.io/twitter/follow/@mdatif11852822?logo=twitter&style=for-the-badge" alt="@mdatif11852822" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **atifcomputer2001@gmail.com**
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mdatif11852822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@mdatif11852822" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atif0604/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="atif0604/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atif0604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="atif0604" height="30" width="40" /></a>
 <a href="https://instagram.com/_atif._1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_atif._1" height="30" width="40" /></a>
 </p>
 
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact" alt="atif0604" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&show_icons=true&locale=en" alt="atif0604" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif0604&" alt="atif0604" /></p>
