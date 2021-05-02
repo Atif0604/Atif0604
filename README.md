@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="atif0604" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="atif0604" /></p>
 <p align="left">
 <a href="https://twitter.com/@mdatif11852822" target="blank">
   <img align="center" src="https://img.shields.io/badge/-@mdatif11852822-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdatif11852822"alt="@mdatif11852822" /></a>
