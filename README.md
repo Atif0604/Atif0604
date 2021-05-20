@@ -5,8 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 
 - 🌱 I’m currently learning **ReactJs and MERN Stack**
--👯 I’m looking to collaborate on Open Source Projects
-
+- 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : **atifcomputer2001@gmail.com**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact : **I think I'm funny XD**
