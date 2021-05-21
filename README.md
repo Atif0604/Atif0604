@@ -49,11 +49,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 <hr>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atif0604" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&theme=tokyonight&show_icons=true&locale=en" alt="atif0604" />
 </p>
 <br>
