@@ -16,8 +16,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0604&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="atif0604" /></p>
 <p align="left">
-<a href="https://twitter.com/@mdatif11852822" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-@mdatif11852822-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdatif11852822"alt="@mdatif11852822" /></a>
+<!-- <a href="https://twitter.com/@mdatif11852822" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-@mdatif11852822-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdatif11852822"alt="@mdatif11852822" /></a> -->
 <a href="https://linkedin.com/in/atif0604" target="blank">
   <img align="center" src="https://img.shields.io/badge/-atif0604-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atif0604/" alt="atif0604"  /></a>
 <a href="https://instagram.com/_atif._1" target="blank">
