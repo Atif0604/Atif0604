@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Atif;A+Passionate+Web+Developer😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Atif;A+Passionate+Web+Developer👨‍💻)](https://git.io/typing-svg)
 <h1 align="center">Hi there, I'm Atif <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
-<h3 align="center">A Passionate Web developer😄, Self Taught Learner😄, Hustler⚡</h3>
+<h3 align="center">A Passionate Web developer👨‍💻, Self Taught Learner😄, Hustler⚡</h3>
 
 
 
