@@ -34,8 +34,8 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/> 
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px"/> 
+<!--   <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px"/>  -->
   </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40px" height="40px"/>  </a> 
@@ -50,7 +50,10 @@
 <!--   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
 </p>
-<hr>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <img align="right" src="https://github.com/Atif0604/Atif0604/blob/main/unnamed.gif" width="300" />
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atif0604" />
@@ -62,7 +65,11 @@
 
 
 <br>
-<hr>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
