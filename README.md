@@ -22,8 +22,8 @@
   <img align="center" src="https://img.shields.io/badge/-@Atif0604-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Atif0604"alt="@Atif0604" /></a>
 <a href="https://linkedin.com/in/atif0604" target="blank">
   <img align="center" src="https://img.shields.io/badge/-atif0604-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atif0604/" alt="atif0604"  /></a>
-<a href="https://instagram.com/_atif._1" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-@_atif._1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_atif._1/" alt="_atif._1"  /></a>
+<a href="https://www.instagram.com/atifitis/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-@atifitis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/atifitis/" alt="atifitis"  /></a>
   <a href="mailto:atifcomputer2001@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/-atifcomputer2001-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atifcomputer2001@gmail.com" alt="atif"  /></a>
 </p>
