@@ -28,27 +28,20 @@
   <img align="center" src="https://img.shields.io/badge/-atifcomputer2001-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atifcomputer2001@gmail.com" alt="atif"  /></a>
 </p>
 
+<br><br>
+<h2 align="center">Languages and Tools:</h3>
+<p align="center"> 
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://camo.githubusercontent.com/bb947ded9e6ec266e306a13d54a6ceab101a7ad60b555fc7a5cb98f449b86d31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/> 
-  </a> 
-<!--   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px"/>  -->
-  </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40px" height="40px"/>  </a> 
-  <a href="https://github.com/" target="_blank">
-    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<!--   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!--   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
+<br>
+ <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!--  <img src="https://img.shields.io/badge/-Django-181717?style=for-the-badge&logo=Django" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+ <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -59,11 +52,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atif0604" />
 </p>
 
-<p align="left">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&theme=tokyonight&show_icons=true&locale=en" alt="atif0604" />
 </p>
 
-
+<p align="left">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Atif0604&theme=react&background=&hide_border=true">
+  </p>
 <br>
 
 
