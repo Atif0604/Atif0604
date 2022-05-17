@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : **atifcomputer2001@gmail.com**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact : **I think I'm funny XD**
+- ⚡ Fun fact : **I think I'm not funny XD**
 
 
 <h3 align="left">Connect with me:</h3>
