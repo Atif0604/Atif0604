@@ -3,9 +3,12 @@
 <h3 align="center">A Passionate Web developer👨‍💻 || Self Taught Learner😄 || Hustler⚡</h3>
 
 
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p> 
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 
+  
 - 🌱 I’m currently learning **ReactJs and MERN Stack**
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : **atifcomputer2001@gmail.com**
@@ -27,6 +30,9 @@
 <!--   <a href="mailto:atifcomputer2001@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/-atifcomputer2001-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atifcomputer2001@gmail.com" alt="atif"  /></a> -->
 </p>
+</div>
+
+
 
 <br><br>
 <h2 align="center">Languages and Tools:</h3>
@@ -47,16 +53,18 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<p align="center">
 <img align="right" src="https://github.com/Atif0604/Atif0604/blob/main/unnamed.gif" width="300" />
-<p align="left">
+</p> 
+ 
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0604&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atif0604" />
-</p>
-
+&nbsp; &nbsp; &nbsp; &nbsp;
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0604&theme=tokyonight&show_icons=true&locale=en" alt="atif0604" />
-</p>
+&nbsp; &nbsp; &nbsp; &nbsp;
 
-<p align="left">
+<p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Atif0604&theme=react&background=&hide_border=true">
   </p>
 <br>
